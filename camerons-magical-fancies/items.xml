@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<info>
+		<name>Items</name>
+		<update version="1.0.0">
+			<file name="items.xml" url="" />
+		</update>
+	</info>
+	<element name="Ancient Whip of Monster Slaying" type="Magic Item" source=">:P" id="ID_CMF_WHIP_OF_MONSTER_SLAYING">
+		<description>
+			<p>This extra long chain whip with a finely crafted silver tip is assembled into interlocking sections allowing the hunter to adjust it according to his prey.</p>
+			<p class="indent"><strong><em>Adjustable</em></strong> During a short or long rest, the hunter may adjust the length of this whip by connecting or disconnecting sections of the chain.</p>
+			<p class="indent"><strong><em>Whipcrack</em></strong> Gain an additional die of weapon damage if the prey is at the specified distance away from the hunter and no other creature is between them.</p>
+			<table>
+				<thead>
+					<tr><td>Whip Length</td><td>Weapon Range</td><td>Whipcrack Distance</td></tr>
+				</thead>
+				<tr><td>Short</td><td>5</td><td>5</td></tr>
+				<tr><td>Medium</td><td>5-10</td><td>10</td></tr>
+				<tr><td>Long</td><td>10-15</td><td>15</td></tr>
+			</table>
+		</description>
+		<setters>
+			<set name="category">Magic Weapons</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="type" addition="whip">Weapon</set>
+			<set name="rarity">Artifact</set>
+			<set name="weapon">Whip</set>
+			<set name="enhancement">0</set>
+			<set name="attunement">true</set>
+			<set name="name-format">{{parent}} +{{enhancement}}</set>
+			<set name="slot">onehand</set>
+			<set name="damage" type="slashing">1d4</set>
+			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_WHIP</set>
+		</setters>
+	</element>
+</elements>

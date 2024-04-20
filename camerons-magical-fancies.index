@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Cameron's Magical Fancies</name>
+		<description></description>
+		<author>Cameron Minkel</author>
+		<update version="1.0.0">
+			<file name="camerons-magical-fancies.index" url="" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="" />
+		<file name="items.xml" url="" />
+	</files>
+</index>

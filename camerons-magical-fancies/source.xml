@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="1.0.0">
+			<file name="source.xml" url="" />
+		</update>
+	</info>	
+	<element name="Cameron's Magical Fancies" type="Source" source=">:P" id="ID_CAMERONS_MAGICAL_FANCIES">
+		<description>
+			<p>Cameron's Custom Content</p>
+		</description>
+	</element>
+</elements>
