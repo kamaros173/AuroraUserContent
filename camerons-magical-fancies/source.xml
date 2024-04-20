@@ -11,7 +11,8 @@
 		</description>
 		<setters>
 			<set name="abbreviation">CMF</set>
-			<set name="author" abbreviation="CM">Cameron Minkel</set>
+			<set name="url">https://github.com/kamaros173/AuroraUserContent/</set>
+			<set name="author" abbreviation="CM" url="https://github.com/kamaros173/AuroraUserContent/">Cameron Minkel</set>
 			<set name="third-party">true</set>
 			<set name="release">20240420</set>
 		</setters>
