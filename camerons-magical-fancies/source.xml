@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="source.xml" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies/source.xml" />
 		</update>
 	</info>	
@@ -9,5 +9,11 @@
 		<description>
 			<p>Cameron's Custom Content</p>
 		</description>
+		<setters>
+			<set name="abbreviation">CMF</set>
+			<set name="author" abbreviation="CM">Cameron Minkel</set>
+			<set name="third-party">true</set>
+			<set name="release">20240420</set>
+		</setters>
 	</element>
 </elements>

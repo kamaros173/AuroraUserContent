@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Items</name>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="items.xml" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies/items.xml" />
 		</update>
 	</info>

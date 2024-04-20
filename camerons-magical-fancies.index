@@ -4,12 +4,13 @@
 		<name>Cameron's Magical Fancies</name>
 		<description></description>
 		<author>Cameron Minkel</author>
-		<update version="1.0.0">
+		<update version="1.0.1">
 			<file name="camerons-magical-fancies.index" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies.index" />
 		</update>
 	</info>
 	<files>
 		<file name="source.xml" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies/source.xml" />
+		
 		<file name="items.xml" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies/items.xml" />
 	</files>
 </index>
