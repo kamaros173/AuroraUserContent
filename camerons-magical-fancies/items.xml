@@ -3,7 +3,7 @@
 	<info>
 		<name>Items</name>
 		<update version="1.0.0">
-			<file name="items.xml" url="" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies/items.xml" />
 		</update>
 	</info>
 	<element name="Ancient Whip of Monster Slaying" type="Magic Item" source=">:P" id="ID_CMF_WHIP_OF_MONSTER_SLAYING">

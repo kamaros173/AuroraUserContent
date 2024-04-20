@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="1.0.0">
-			<file name="source.xml" url="" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/kamaros173/AuroraUserContent/main/camerons-magical-fancies/source.xml" />
 		</update>
 	</info>	
 	<element name="Cameron's Magical Fancies" type="Source" source=">:P" id="ID_CAMERONS_MAGICAL_FANCIES">
